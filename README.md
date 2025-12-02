@@ -296,7 +296,7 @@ These enhancements would make the application even more general-purpose and able
 
 ## 7) Links
 
-Github repository:
+Github repository: https://github.com/toby-draper/final-project
 
 
 
