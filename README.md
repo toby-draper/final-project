@@ -133,10 +133,14 @@ Stored example visualizations in `/assets/visualization_ex/` provide:
   
 ## 3) How to Run
 
+Before running the script for the first time, make it executable:
+```bash
+chmod +x run.sh
+```
 From the root of the repository, run:
-
+```bash
 ./run.sh
-
+```
 This script automatically performs the following steps:
 
 1. **Builds the Docker image**  
