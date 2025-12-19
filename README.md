@@ -1,7 +1,7 @@
 # CSV Visualizer
 ## A one-command, Dockerized Flask app for quick CSV visualization in your browser
 
-This project is a fully containerized Flask web app that helps you explore CSV files visually without writing code. The user runs the app in using one command in the terminal, uploads a CSV in the browser, chooses their variable(s) of choice, and the app generates clean Matplotlib visualizations on demand. The app offers histograms and scatterplots for numeric data, as well as bar charts and pie charts for categorical data. It automatically detects column types, cleans the data, and produces polished plots.
+This project is a fully containerized Flask web app that helps you explore CSV files visually without writing code. The user runs the app using one command in the terminal, uploads a CSV in the browser, chooses their variable(s) of choice, and the app generates clean Matplotlib visualizations on demand. The app offers histograms and scatterplots for numeric data, as well as bar charts and pie charts for categorical data. It automatically detects column types, cleans the data, and produces polished plots.
 
 ## Architecture
 
